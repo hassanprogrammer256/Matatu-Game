@@ -1,4 +1,4 @@
-import pygame
+import pygame,pygwidgets
 
 BACK_OF_CARD_IMAGE = 'images/BackOfCard.png'
 ROTATION_SPEED = 1
